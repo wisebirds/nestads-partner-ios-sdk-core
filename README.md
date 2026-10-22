@@ -11,7 +11,7 @@ Wisebirds NestAds 파트너 통합 iOS SDK의 **코어 모듈**입니다. 파트
 
 | 구성요소 | 버전 |
 |---|---|
-| NestAdsPartnerCore | `1.0.0` |
+| NestAdsPartnerCore | `1.1.0` |
 
 ## 설치 (Swift Package Manager)
 
@@ -27,7 +27,7 @@ https://github.com/wisebirds/nestads-partner-ios-sdk-core
 dependencies: [
     .package(
         url: "https://github.com/wisebirds/nestads-partner-ios-sdk-core",
-        from: "1.0.0"
+        from: "1.1.0"
     )
 ]
 ```
