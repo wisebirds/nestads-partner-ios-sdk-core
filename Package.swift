@@ -15,8 +15,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "NestAdsPartnerCore",
-      url: "https://github.com/wisebirds/nestads-partner-ios-sdk-core/releases/download/1.2.0/NestAdsPartnerCore.xcframework.zip",
-      checksum: "b64ce6627704470d6a18c28f0a762d7357b18113c9e413d076daf2cac8aec91a"
+      url: "https://github.com/wisebirds/nestads-partner-ios-sdk-core/releases/download/1.3.0/NestAdsPartnerCore.xcframework.zip",
+      checksum: "953494e473d253b5ea259c7d98368c5a6e809fb38a3d399ce4cf00fde2143188"
     )
   ]
 )
